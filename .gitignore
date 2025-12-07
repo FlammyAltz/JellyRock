@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Distribution/packaging
+# Distribution / packaging
 build/
 dist/
 downloads/
@@ -40,9 +40,3 @@ node_modules/
 # Env variables
 .env
 .env.local
-
-
-# Marimo
-marimo/_static/
-marimo/_lsp/
-__marimo__/
